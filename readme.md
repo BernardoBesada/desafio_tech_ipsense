@@ -1,0 +1,1 @@
+Desafio técnico de analytics para o processo seletivo de estágio da empresa IPsense. A API escolhida foi a Gutendex.
